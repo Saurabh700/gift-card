@@ -1,0 +1,38 @@
+.logo {
+  height: 50px;
+  width: 50px;
+  margin-left: 300px;
+  margin-top: -40px;
+}
+.bg {
+  width: 350px;
+  height: 250px;
+  background-color: silver;
+  padding: 5px 30px;
+  margin-top: 20px;
+}
+.case {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  width: 73px;
+}
+.gift {
+  margin-top: 10px;
+  font-size: 25px;
+}
+.pay {
+  font-size: 25px;
+}
+.system {
+  margin-top: 20px;
+}
+.arrow {
+  position: absolute;
+  left: 340px;
+  height: 40px;
+  top: 220px;
+}
+.date {
+  font-weight: lighter;
+}

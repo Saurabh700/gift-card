@@ -1,2 +1,2 @@
-# gift-card
+# Static-Card
 Created with CodeSandbox
